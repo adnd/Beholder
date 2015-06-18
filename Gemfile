@@ -17,6 +17,7 @@ gem 'coffee-rails', '~> 4.1.0'
 gem 'crypt19-rb'
 
 
+
 # Use jquery as the JavaScript library
 gem 'jquery-rails'
 gem 'compass-rails', github: 'Compass/compass-rails', branch: 'master'

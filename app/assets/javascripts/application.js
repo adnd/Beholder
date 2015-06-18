@@ -12,5 +12,13 @@
 //
 //= require jquery
 //= require jquery_ujs
+//= require twitter/bootstrap
 //= require turbolinks
-//= require_tree .
+//= require fastclick.min
+//= require nifty
+//= require morris
+//= require raphael.min
+//= require jquery.sparkline
+//= require skycons
+//= require switchery
+//= require bootstrap-select
