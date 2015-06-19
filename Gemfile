@@ -16,6 +16,15 @@ gem 'coffee-rails', '~> 4.1.0'
 # gem 'therubyracer', platforms: :ruby
 gem 'crypt19-rb'
 
+# Background process
+gem 'sidekiq'
+
+# gems para acessar os servicos de advertising and dependencies
+gem 'staccato'
+# gem 'zuck'
+gem 'twitter_ads'
+gem 'koala', '~> 2.0'
+gem 'fb_graph'
 
 
 # Use jquery as the JavaScript library
